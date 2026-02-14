@@ -1,4 +1,6 @@
-# Personnages et Etres Vivants
+# Personnages et Êtres Vivants
+
+![Statut](https://img.shields.io/badge/Statut-Pas_encore_commencé-red)
 
 ## Redirections
 
