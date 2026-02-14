@@ -20,7 +20,7 @@ Pour l'instant, je vais essayer de travailler sur les concepts suivants :
 - **Nombre de fichiers dans cette partie :** ![Fichiers](https://img.shields.io/badge/Contenu-1_fichier-blue)
 - **Nombre de lignes rédigées dans cette partie :** ![Lignes](https://img.shields.io/badge/Taille-9_lignes-brightgreen)
 
-TODO : toute petite description
+Analyse des différents genres littéraires et narratifs (Fantasy, Science-Fiction, Polar, etc.). L'idée est de comprendre les codes propres à chaque genre et comment les détourner. On essaiera aussi de voir toutes les structures macro que l'on peut utiliser pour organiser une histoire.
 
 - **[Accéder à la partie](type_de_recit/index_type_de_recit.md)**
 
@@ -32,7 +32,7 @@ TODO : toute petite description
 - **Nombre de fichiers dans cette partie :** ![Fichiers](https://img.shields.io/badge/Contenu-1_fichier-blue)
 - **Nombre de lignes rédigées dans cette partie :** ![Lignes](https://img.shields.io/badge/Taille-9_lignes-brightgreen)
 
-TODO : toute petite description
+Réflexion sur l'impact du support (Roman, Cinéma, Jeu Vidéo, JdR) sur la manière de raconter l'histoire. Comment adapter une narration selon que l'on s'adresse à un lecteur, un spectateur ou un joueur.
 
 - **[Accéder à la partie](support_de_recit/index_support_de_recit.md)**
 
@@ -44,7 +44,7 @@ TODO : toute petite description
 - **Nombre de fichiers dans cette partie :** ![Fichiers](https://img.shields.io/badge/Contenu-1_fichier-blue)
 - **Nombre de lignes rédigées dans cette partie :** ![Lignes](https://img.shields.io/badge/Taille-9_lignes-brightgreen)
 
-TODO : toute petite description
+Le "Worldbuilding" pur : création de la géographie, de l'histoire (lore), des systèmes de magie ou de technologie, et des structures politiques qui rendent un monde cohérent et vivant.
 
 - **[Accéder à la partie](monde_univers/index_monde_univers.md)**
 
@@ -56,7 +56,7 @@ TODO : toute petite description
 - **Nombre de fichiers dans cette partie :** ![Fichiers](https://img.shields.io/badge/Contenu-1_fichier-blue)
 - **Nombre de lignes rédigées dans cette partie :** ![Lignes](https://img.shields.io/badge/Taille-9_lignes-brightgreen)
 
-TODO : toute petite description
+L'âme de l'histoire : définir le ton (sombre, épique, mélancolique) et les thématiques profondes (la justice, le deuil, l'héroïsme) qui traversent le récit.
 
 - **[Accéder à la partie](ambiance_theme/index_ambiance_theme.md)**
 
@@ -68,7 +68,7 @@ TODO : toute petite description
 - **Nombre de fichiers dans cette partie :** ![Fichiers](https://img.shields.io/badge/Contenu-1_fichier-blue)
 - **Nombre de lignes rédigées dans cette partie :** ![Lignes](https://img.shields.io/badge/Taille-14_lignes-brightgreen)
 
-TODO : toute petite description
+Détails des structures narratives. On y explore notamment les "20 types d'intrigues" de Ronald B. Tobias et la manière de construire une progression dramatique efficace.
 
 - **[Accéder à la partie](intrigues_scenarios/index_intrigues_scenarios.md)**
 
@@ -80,6 +80,6 @@ TODO : toute petite description
 - **Nombre de fichiers dans cette partie :** ![Fichiers](https://img.shields.io/badge/Contenu-1_fichier-blue)
 - **Nombre de lignes rédigées dans cette partie :** ![Lignes](https://img.shields.io/badge/Taille-9_lignes-brightgreen)
 
-TODO : toute petite description
+Focus sur les protagonistes, antagonistes et les différentes races ou créatures. Étude des archétypes, de l'évolution des personnages (arcs) et de leur psychologie.
 
 - **[Accéder à la partie](personnages_etre_vivants/index_personnages_etre_vivants.md)**
