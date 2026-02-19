@@ -1,9 +1,9 @@
 # Blog sur de la rédaction d'histoire
 
 ![Progression](https://img.shields.io/badge/Statut-En_Cours-orange)
-![Fichiers](https://img.shields.io/badge/Contenu-7_fichiers-blue)
-![Lignes](https://img.shields.io/badge/Taille-126_lignes-brightgreen)
-![Mots](https://img.shields.io/badge/Taille-126_mots-brightgreen)
+![Fichiers](https://img.shields.io/badge/Contenu-6_fichiers-blue)
+![Lignes](https://img.shields.io/badge/Taille-83_lignes-brightgreen)
+![Mots](https://img.shields.io/badge/Taille-1263_mots-brightgreen)
 
 Bonjour à tous, ce répertoire github va consister en une sorte de wiki / réflexion / travail personnel sur tout ce qui est création de monde / création d'histoires.
 
@@ -20,7 +20,7 @@ Pour l'instant, je vais essayer de travailler sur les concepts suivants :
 - **Etat :** ![Pas encore commencé](https://img.shields.io/badge/Statut-Pas_Encore_Commencé-red)
 - **Nombre de fichiers dans cette partie :** ![Fichiers](https://img.shields.io/badge/Contenu-1_fichier-blue)
 - **Nombre de lignes rédigées dans cette partie :** ![Lignes](https://img.shields.io/badge/Taille-9_lignes-brightgreen)
-- **Nombre de mots rédigées dans cette partie :** ![Lignes](https://img.shields.io/badge/Taille-9_mots-brightgreen)
+- **Nombre de mots rédigées dans cette partie :** ![Lignes](https://img.shields.io/badge/Taille-50_mots-brightgreen)
 
 Analyse des différents genres littéraires et narratifs (Fantasy, Science-Fiction, Polar, etc.). L'idée est de comprendre les codes propres à chaque genre et comment les détourner. On essaiera aussi de voir toutes les structures macro que l'on peut utiliser pour organiser une histoire.
 
@@ -33,7 +33,7 @@ Analyse des différents genres littéraires et narratifs (Fantasy, Science-Ficti
 - **Etat :** ![Pas encore commencé](https://img.shields.io/badge/Statut-Pas_Encore_Commencé-red)
 - **Nombre de fichiers dans cette partie :** ![Fichiers](https://img.shields.io/badge/Contenu-1_fichier-blue)
 - **Nombre de lignes rédigées dans cette partie :** ![Lignes](https://img.shields.io/badge/Taille-9_lignes-brightgreen)
-- **Nombre de mots rédigées dans cette partie :** ![Lignes](https://img.shields.io/badge/Taille-9_mots-brightgreen)
+- **Nombre de mots rédigées dans cette partie :** ![Lignes](https://img.shields.io/badge/Taille-50_mots-brightgreen)
 
 Réflexion sur l'impact du support (Roman, Cinéma, Jeu Vidéo, JdR) sur la manière de raconter l'histoire. Comment adapter une narration selon que l'on s'adresse à un lecteur, un spectateur ou un joueur.
 
@@ -46,7 +46,7 @@ Réflexion sur l'impact du support (Roman, Cinéma, Jeu Vidéo, JdR) sur la mani
 - **Etat :** ![Pas encore commencé](https://img.shields.io/badge/Statut-Pas_Encore_Commencé-red)
 - **Nombre de fichiers dans cette partie :** ![Fichiers](https://img.shields.io/badge/Contenu-1_fichier-blue)
 - **Nombre de lignes rédigées dans cette partie :** ![Lignes](https://img.shields.io/badge/Taille-9_lignes-brightgreen)
-- **Nombre de mots rédigées dans cette partie :** ![Lignes](https://img.shields.io/badge/Taille-9_mots-brightgreen)
+- **Nombre de mots rédigées dans cette partie :** ![Lignes](https://img.shields.io/badge/Taille-50_mots-brightgreen)
 
 Le "Worldbuilding" pur : création de la géographie, de l'histoire (lore), des systèmes de magie ou de technologie, et des structures politiques qui rendent un monde cohérent et vivant.
 
@@ -59,7 +59,7 @@ Le "Worldbuilding" pur : création de la géographie, de l'histoire (lore), des 
 - **Etat :** ![Pas encore commencé](https://img.shields.io/badge/Statut-Pas_Encore_Commencé-red)
 - **Nombre de fichiers dans cette partie :** ![Fichiers](https://img.shields.io/badge/Contenu-1_fichier-blue)
 - **Nombre de lignes rédigées dans cette partie :** ![Lignes](https://img.shields.io/badge/Taille-9_lignes-brightgreen)
-- **Nombre de mots rédigées dans cette partie :** ![Lignes](https://img.shields.io/badge/Taille-9_mots-brightgreen)
+- **Nombre de mots rédigées dans cette partie :** ![Lignes](https://img.shields.io/badge/Taille-50_mots-brightgreen)
 
 L'âme de l'histoire : définir le ton (sombre, épique, mélancolique) et les thématiques profondes (la justice, le deuil, l'héroïsme) qui traversent le récit.
 
@@ -71,8 +71,8 @@ L'âme de l'histoire : définir le ton (sombre, épique, mélancolique) et les t
 
 - **Etat :** ![Début de rédaction](https://img.shields.io/badge/Statut-Début_de_Rédaction-orange)
 - **Nombre de fichiers dans cette partie :** ![Fichiers](https://img.shields.io/badge/Contenu-1_fichier-blue)
-- **Nombre de lignes rédigées dans cette partie :** ![Lignes](https://img.shields.io/badge/Taille-14_lignes-brightgreen)
-- **Nombre de mots rédigées dans cette partie :** ![Lignes](https://img.shields.io/badge/Taille-9_mots-brightgreen)
+- **Nombre de lignes rédigées dans cette partie :** ![Lignes](https://img.shields.io/badge/Taille-38_lignes-brightgreen)
+- **Nombre de mots rédigées dans cette partie :** ![Lignes](https://img.shields.io/badge/Taille-1013_mots-brightgreen)
 
 Détails des structures narratives. On y explore notamment les "20 types d'intrigues" de Ronald B. Tobias et la manière de construire une progression dramatique efficace.
 
@@ -85,8 +85,20 @@ Détails des structures narratives. On y explore notamment les "20 types d'intri
 - **Etat :** ![Pas encore commencé](https://img.shields.io/badge/Statut-Pas_Encore_Commencé-red)
 - **Nombre de fichiers dans cette partie :** ![Fichiers](https://img.shields.io/badge/Contenu-1_fichier-blue)
 - **Nombre de lignes rédigées dans cette partie :** ![Lignes](https://img.shields.io/badge/Taille-9_lignes-brightgreen)
-- **Nombre de mots rédigées dans cette partie :** ![Lignes](https://img.shields.io/badge/Taille-9_mots-brightgreen)
+- **Nombre de mots rédigées dans cette partie :** ![Lignes](https://img.shields.io/badge/Taille-50_mots-brightgreen)
 
 Focus sur les protagonistes, antagonistes et les différentes races ou créatures. Étude des archétypes, de l'évolution des personnages (arcs) et de leur psychologie.
 
 - **[Accéder à la partie](personnages_etre_vivants/index_personnages_etre_vivants.md)**
+
+## Installation / Contribution
+
+Pour que les statistiques du README se mettent à jour automatiquement avant chaque commit, vous devez configurer le chemin des hooks Git après avoir cloné le dépôt.
+
+Exécutez la commande suivante dans votre terminal :
+
+```sh
+git config core.hooksPath .githooks
+```
+
+Cela activera le script `stats.py` qui s'exécutera automatiquement à chaque commit.

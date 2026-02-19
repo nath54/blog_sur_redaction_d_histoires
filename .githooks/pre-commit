@@ -1,0 +1,6 @@
+#!/bin/sh
+# Run the stats script to update README.md badges
+python stats.py
+
+# Automatically add the updated README.md to the current commit
+git add README.md
