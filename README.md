@@ -13,7 +13,7 @@ Je vais essayer d'organiser tout cela de la façon la plus modulaire possible. D
 
 Pour l'instant, je vais tout rédiger en français car c'est un peu plus rapide pour moi de rédiger en français qu'en anglais, mais si j'arrive à faire quelque chose de bonne qualité, je travaillerai aussi sur une traduction en anglais.
 
-Attention, ma manière de rédiger peut paraître très *"scientifique"* / *"rationnelle"*, mais c'est ma manière d'être / de penser. J'ai depuis mon plus jeune âge me suis dirigé vers les sciences et l'informatique et de par mon environnement et mes études, j'ai été complètement formaté à penser comme cela. *Je suis conscient et j'assume que c'est un style qui peut plaire à certains comme déplaire à d'autres.*
+Attention, ma manière de rédiger peut paraître très *"scientifique"* / *"rationnelle"*, mais c'est ma manière d'être / de penser. Depuis mon plus jeune âge, je me suis dirigé vers les sciences et l'informatique et de par mon environnement et mes études, j'ai été complètement formaté à penser comme cela. *Je suis conscient et j'assume que c'est un style qui peut plaire à certains comme déplaire à d'autres.*
 
 Pour l'instant, je vais essayer de travailler sur les concepts suivants :
 
