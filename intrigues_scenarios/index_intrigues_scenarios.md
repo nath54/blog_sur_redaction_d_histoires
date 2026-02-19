@@ -82,7 +82,7 @@ pub struct PlotComposed{
     // Equivalent de l'héritage de la PPO traditionnelle en Rust
     base: Plot;
     // Liste des compositions des intrigues
-    composed_plots: List<Plot>;
+    plots: List<Plot>;
 }
 ```
 
