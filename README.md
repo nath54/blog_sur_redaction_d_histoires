@@ -2,8 +2,8 @@
 
 ![Progression](https://img.shields.io/badge/Statut-En_Cours-orange)
 ![Fichiers](https://img.shields.io/badge/Contenu-6_fichiers-blue)
-![Lignes](https://img.shields.io/badge/Taille-83_lignes-brightgreen)
-![Mots](https://img.shields.io/badge/Taille-1263_mots-brightgreen)
+![Lignes](https://img.shields.io/badge/Taille-117_lignes-brightgreen)
+![Mots](https://img.shields.io/badge/Taille-1438_mots-brightgreen)
 
 Bonjour à tous, ce répertoire github va consister en une sorte de wiki / réflexion / travail personnel sur tout ce qui est création de monde / création d'histoires.
 
@@ -12,6 +12,8 @@ Mon objectif va être de lister / rassembler / synthétiser / modéliser le plus
 Je vais essayer d'organiser tout cela de la façon la plus modulaire possible. Donc pour chaque partie, il y aura une sorte d'index / page d'accueil qui va présenter et apporter des éléments généraux, avant de rediriger vers d'autres fichiers plus spécifiques qui pourront aussi rediriger vers d'autres fichiers.
 
 Pour l'instant, je vais tout rédiger en français car c'est un peu plus rapide pour moi de rédiger en français qu'en anglais, mais si j'arrive à faire quelque chose de bonne qualité, je travaillerai aussi sur une traduction en anglais.
+
+Attention, ma manière de rédiger peut paraître très *"scientifique"* / *"rationnelle"*, mais c'est ma manière d'être / de penser. J'ai depuis mon plus jeune âge me suis dirigé vers les sciences et l'informatique et de par mon environnement et mes études, j'ai été complètement formaté à penser comme cela. *Je suis conscient et j'assume que c'est un style qui peut plaire à certains comme déplaire à d'autres.*
 
 Pour l'instant, je vais essayer de travailler sur les concepts suivants :
 
@@ -71,8 +73,8 @@ L'âme de l'histoire : définir le ton (sombre, épique, mélancolique) et les t
 
 - **Etat :** ![Début de rédaction](https://img.shields.io/badge/Statut-Début_de_Rédaction-orange)
 - **Nombre de fichiers dans cette partie :** ![Fichiers](https://img.shields.io/badge/Contenu-1_fichier-blue)
-- **Nombre de lignes rédigées dans cette partie :** ![Lignes](https://img.shields.io/badge/Taille-38_lignes-brightgreen)
-- **Nombre de mots rédigées dans cette partie :** ![Lignes](https://img.shields.io/badge/Taille-1013_mots-brightgreen)
+- **Nombre de lignes rédigées dans cette partie :** ![Lignes](https://img.shields.io/badge/Taille-72_lignes-brightgreen)
+- **Nombre de mots rédigées dans cette partie :** ![Lignes](https://img.shields.io/badge/Taille-1188_mots-brightgreen)
 
 Détails des structures narratives. On y explore notamment les "20 types d'intrigues" de Ronald B. Tobias et la manière de construire une progression dramatique efficace.
 

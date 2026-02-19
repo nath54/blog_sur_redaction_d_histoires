@@ -50,3 +50,47 @@ Une première remarque que l'on peut se faire est que beaucoup des éléments de
 
 Et une seconde remarque que j'aurais envie de faire est que l'on peut en fait que l'on puisse donc avoir deux intrigues à la fois pour un même protagoniste en même temps. Comme par exemple avoir une intrigue de type **aventure** et une intrigue de type **amour** en même temps.
 
+C'est pourquoi une approche plus hierarchique et modulable semblerait plus intéressante.
+
+## Première ébauche d'approche hierarchique pour les types d'intrigues
+
+Dans une histoire, nous pouvons donc avoir plusieurs types d'intrigues:
+
+```rust
+// Classe qui représente une histoire
+pub struct Story{
+    // On a donc l'attribut plots qui est une liste d'éléments de type Plot
+    plots: List<Plot>
+}
+```
+
+Et pour chaque intrigue, elle peut être catégorisée en plusieurs types: **Intrigue Composée**, **Intrigue de base**.
+
+Les intrigues composées sont un ensemble d'intrigues.
+
+```rust
+// Classe Abstraite qui représente une intrigue
+pub struct Plot{
+    // Nom du plot
+    name: str
+}
+```
+
+```rust
+// Classe qui représente une intrigue composée
+pub struct PlotComposed{
+    // Equivalent de l'héritage de la PPO traditionnelle en Rust
+    base: Plot
+    // Liste des compositions
+    composed_plots: List<Plot>
+}
+```
+
+Ensuite, pour catégoriser les intrigues, on peut réfléchir à :
+
+- Quel est le sujet de l'intrigue ?
+- Quel est l'objet de l'intrigue ?
+- Est-ce que l'intrigue est subie, neutre ou insufflée ?
+- Quel type d'actions va contenir l'intrigue ?
+- Quelle est l'issue de l'intrigue ?
+
