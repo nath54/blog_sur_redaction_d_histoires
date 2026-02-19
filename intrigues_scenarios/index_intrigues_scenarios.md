@@ -72,7 +72,7 @@ Les intrigues composées sont un ensemble d'intrigues.
 // Classe Abstraite qui représente une intrigue
 pub struct Plot{
     // Nom du plot
-    name: str
+    name: str;
 }
 ```
 
@@ -80,9 +80,9 @@ pub struct Plot{
 // Classe qui représente une intrigue composée
 pub struct PlotComposed{
     // Equivalent de l'héritage de la PPO traditionnelle en Rust
-    base: Plot
+    base: Plot;
     // Liste des compositions des intrigues
-    plots: List<Plot>
+    composed_plots: List<Plot>;
 }
 ```
 
